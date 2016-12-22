@@ -1,13 +1,13 @@
 {
   "name": "work-templates",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Build out templated directories and things based on your input.",
   "main": "npm/src/index.js",
   "scripts": {
     "test": "standard"
   },
   "bin": {
-    "work-templates": "./npm/src/index.js"
+    "work-templates": "./bin/work-templates"
   },
   "author": "Offsider",
   "license": "MIT",
